@@ -63,3 +63,15 @@ class Singlee1 {
         sc.close();
     }
 }
+Enter the number of vertices: 4
+Enter the adjacency matrix (use INF for unreachable nodes):
+0 3 INF 7
+3 0 1 5
+INF 1 0 2
+7 5 2 0
+Enter the source vertex: 0
+Vertex   Distance from Source
+0        0
+1        3
+2        4
+3        6
